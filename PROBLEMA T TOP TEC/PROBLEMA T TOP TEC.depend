@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552126772 source:c:\users\user\documents\c++\problema t top tec\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<string>
+	<algorithm>
+

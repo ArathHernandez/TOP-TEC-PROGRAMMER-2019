@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552090633 source:c:\users\user\documents\c++\problema e top tec\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
